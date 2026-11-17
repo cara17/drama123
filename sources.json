@@ -1,12 +1,5 @@
 [
   {
-    "id": "source1",
-    "name": "新极品资源站",
-    "url": "https://jipinvip1.com/api.php/provide/vod/",
-    "detailUrl": "https://jipinvip1.com/api.php/provide/vod/at/json/",
-    "isEnabled": true
-  },
-  {
     "id": "source2",
     "name": "暴风资源站",
     "url": "https://bfzyapi.com/api.php/provide/vod/",
