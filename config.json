@@ -26,6 +26,26 @@
       "name": "红牛资源站",
       "detail": "http://hongniuzy2.com/api.php/provide/vod/at/json/"
     },
+     "ryzyz": {
+      "api": "https://api.ryzy.com/api.php/provide/vod",
+      "name": "如意资源站",
+      "detail": "https://api.ryzy.com/api.php/provide/vod/at/json/"
+    },
+     "155zyz": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "155资源站",
+      "detail": "https://155api.com/api.php/provide/vod/at/json/"
+    },
+     "myzy": {
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "name": "猫眼资源",
+      "detail": "https://api.maoyanapi.top/api.php/provide/vod/at/json/"
+    },
+     "aqyzyz": {
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "name": "爱奇艺资源站",
+      "detail": "https://iqiyizyapi.com/api.php/provide/vod/at/json/"
+    },
     "mdzyz": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod/",
       "name": "魔都资源站",
@@ -94,9 +114,179 @@
   },
   "custom_category": [
     {
-      "name": "华语",
+      "name": "大陆电影",
       "type": "movie",
-      "query": "华语"
+      "query": "中国大陆"
+    },
+    {
+      "name": "香港电影",
+      "type": "movie",
+      "query": "香港"
+    },
+    {
+      "name": "台湾电影",
+      "type": "movie",
+      "query": "台湾"
+    },
+    {
+      "name": "新加坡电影",
+      "type": "movie",
+      "query": "新加坡"
+    },
+    {
+      "name": "美国电影",
+      "type": "movie",
+      "query": "美国"
+    },
+    {
+      "name": "英国电影",
+      "type": "movie",
+      "query": "英国"
+    },
+    {
+      "name": "日本电影",
+      "type": "movie",
+      "query": "日本"
+    },
+    {
+      "name": "韩国电影",
+      "type": "movie",
+      "query": "韩国"
+    },
+    {
+      "name": "泰国电影",
+      "type": "movie",
+      "query": "泰国"
+    },
+    {
+      "name": "印度电影",
+      "type": "movie",
+      "query": "印度"
+    },
+    {
+      "name": "悬疑电影",
+      "type": "movie",
+      "query": "悬疑"
+    },
+    {
+      "name": "喜剧电影",
+      "type": "movie",
+      "query": "喜剧"
+    },
+    {
+      "name": "爱情电影",
+      "type": "movie",
+      "query": "爱情"
+    },
+    {
+      "name": "动画电影",
+      "type": "movie",
+      "query": "动画"
+    },
+    {
+      "name": "纪录片",
+      "type": "movie",
+      "query": "纪录"
+    },
+    {
+      "name": "国产剧",
+      "type": "tv",
+      "query": "国产"
+    },
+    {
+      "name": "港剧",
+      "type": "tv",
+      "query": "香港"
+    },
+    {
+      "name": "台剧",
+      "type": "tv",
+      "query": "台湾"
+    },
+    {
+      "name": "新加坡剧",
+      "type": "tv",
+      "query": "新加坡"
+    },
+    {
+      "name": "美剧",
+      "type": "tv",
+      "query": "美国"
+    },
+    {
+      "name": "英剧",
+      "type": "tv",
+      "query": "英国"
+    },
+    {
+      "name": "日剧",
+      "type": "tv",
+      "query": "日本"
+    },
+    {
+      "name": "韩剧",
+      "type": "tv",
+      "query": "韩国"
+    },
+    {
+      "name": "泰剧",
+      "type": "tv",
+      "query": "泰国"
+    },
+    {
+      "name": "悬疑罪案剧",
+      "type": "tv",
+      "query": "悬疑"
+    },
+    {
+      "name": "短剧微剧",
+      "type": "tv",
+      "query": "短剧"
+    },
+    {
+      "name": "动画番剧",
+      "type": "tv",
+      "query": "动漫"
+    },
+    {
+      "name": "大陆综艺",
+      "type": "tv",
+      "query": "大陆综艺"
+    },
+    {
+      "name": "港台综艺",
+      "type": "tv",
+      "query": "港台综艺"
+    },
+    {
+      "name": "日韩综艺",
+      "type": "tv",
+      "query": "日韩综艺"
+    },
+    {
+      "name": "欧美综艺",
+      "type": "tv",
+      "query": "欧美综艺"
+    },
+    {
+      "name": "真人秀",
+      "type": "tv",
+      "query": "真人秀"
+    },
+    {
+      "name": "脱口秀",
+      "type": "tv",
+      "query": "脱口秀"
+    },
+    {
+      "name": "音乐选秀",
+      "type": "tv",
+      "query": "音乐"
+    },
+    {
+      "name": "晚会盛典",
+      "type": "tv",
+      "query": "晚会"
     }
   ]
 }
