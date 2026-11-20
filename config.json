@@ -190,98 +190,88 @@
     },
     {
       "name": "国产剧",
-      "type": "tv",
+      "type": "drama",
       "query": "国产"
     },
     {
       "name": "港剧",
-      "type": "tv",
+      "type": "drama",
       "query": "香港"
     },
     {
       "name": "台剧",
-      "type": "tv",
+      "type": "drama",
       "query": "台湾"
     },
     {
       "name": "新加坡剧",
-      "type": "tv",
+      "type": "drama",
       "query": "新加坡"
     },
     {
       "name": "美剧",
-      "type": "tv",
+      "type": "drama",
       "query": "美国"
     },
     {
       "name": "英剧",
-      "type": "tv",
+      "type": "drama",
       "query": "英国"
     },
     {
       "name": "日剧",
-      "type": "tv",
+      "type": "drama",
       "query": "日本"
     },
     {
       "name": "韩剧",
-      "type": "tv",
+      "type": "drama",
       "query": "韩国"
     },
     {
       "name": "泰剧",
-      "type": "tv",
+      "type": "drama",
       "query": "泰国"
     },
     {
-      "name": "悬疑罪案剧",
-      "type": "tv",
-      "query": "悬疑"
-    },
-    {
       "name": "短剧微剧",
-      "type": "tv",
+      "type": "drama",
       "query": "短剧"
     },
     {
       "name": "动画番剧",
-      "type": "tv",
+      "type": "drama",
       "query": "动漫"
     },
     {
       "name": "大陆综艺",
-      "type": "tv",
+      "type": "variety shows",
       "query": "大陆综艺"
     },
     {
       "name": "港台综艺",
-      "type": "tv",
+      "type": "variety shows",
       "query": "港台综艺"
     },
     {
       "name": "日韩综艺",
-      "type": "tv",
+      "type": "variety shows",
       "query": "日韩综艺"
     },
     {
       "name": "欧美综艺",
-      "type": "tv",
+      "type": "variety shows",
       "query": "欧美综艺"
     },
     {
       "name": "真人秀",
-      "type": "tv",
+      "type": "variety shows",
       "query": "真人秀"
     },
     {
       "name": "脱口秀",
-      "type": "tv",
+      "type": "variety shows",
       "query": "脱口秀"
-    },
-    {
-      "name": "音乐选秀",
-      "type": "tv",
-      "query": "音乐"
     },
     {
       "name": "晚会盛典",
